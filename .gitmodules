@@ -1,0 +1,18 @@
+[submodule "azure-iot-dashboard-mini"]
+	path = azure-iot-dashboard-mini
+	url = git@github.com:MakarenaLabs/Azure-IoT-dashboard-mini.git
+[submodule "azure-iot-dashboard"]
+	path = azure-iot-dashboard
+	url = git@github.com:MakarenaLabs/Azure-IoT-dashboard.git
+[submodule "microserver-flask"]
+	path = microserver-flask
+	url = git@github.com:MakarenaLabs/microserver-flask.git
+[submodule "esp32-python-http-server"]
+	path = esp32-python-http-server
+	url = git@github.com:MakarenaLabs/ESP32-Python-HTTP-Server.git
+[submodule "azureiot-messages"]
+	path = azureiot-messages
+	url = git@github.com:MakarenaLabs/AzureIOT-Messages.git
+[submodule "azure-iot-telegram-bot"]
+	path = azure-iot-telegram-bot
+	url = git@github.com:MakarenaLabs/Azure-IoT-Telegram-Bot.git

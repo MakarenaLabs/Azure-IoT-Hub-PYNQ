@@ -1,0 +1,18 @@
+[submodule "azure-iot-dashboard-mini"]
+	path = azure-iot-dashboard-mini
+	url = git@gitlab.com:MakarenalabsDev/xilinx/azure-iot/azure-iot-dashboard-mini.git
+[submodule "azure-iot-dashboard"]
+	path = azure-iot-dashboard
+	url = git@gitlab.com:MakarenalabsDev/xilinx/azure-iot/azure-iot-dashboard.git
+[submodule "microserver-flask"]
+	path = microserver-flask
+	url = git@gitlab.com:MakarenalabsDev/xilinx/azure-iot/microserver-flask.git
+[submodule "esp32-python-http-server"]
+	path = esp32-python-http-server
+	url = git@gitlab.com:MakarenalabsDev/xilinx/azure-iot/esp32-python-http-server.git
+[submodule "azureiot-messages"]
+	path = azureiot-messages
+	url = git@gitlab.com:MakarenalabsDev/xilinx/azure-iot/azureiot-messages.git
+[submodule "azure-iot-telegram-bot"]
+	path = azure-iot-telegram-bot
+	url = git@gitlab.com:MakarenalabsDev/xilinx/azure-iot/azure-iot-telegram-bot.git
