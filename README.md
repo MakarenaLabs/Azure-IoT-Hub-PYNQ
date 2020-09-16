@@ -6,8 +6,7 @@ This project need PYNQ 2.5 minimum version (for MicroZed 7010 you can rebuild th
 IMPORTANT: This project need PYNQ 2.5 minimum version (for MicroZed 7010 you can rebuild the image with [this repo](https://github.com/MakarenaLabs/PYNQ/tree/image_v2.5.4)).
 - download the full repository with recurse clone on your board 
     ```
-    git clone --recurse-submodules 
-    git@github.com:MakarenaLabs/Azure-IoT-Hub-PYNQ.git
+    git clone --recurse-submodules git@github.com:MakarenaLabs/Azure-IoT-Hub-PYNQ.git
     ```
 - enter in the repository root and launch the setup script
     ```
