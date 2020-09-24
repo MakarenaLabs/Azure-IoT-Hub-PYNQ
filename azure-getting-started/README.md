@@ -141,16 +141,4 @@ IoT device client will get the message and report the status to the device twin.
 
 ![](./images/devicetwin2.png)
 
-<a name="NextSteps"></a>
 
-# Step 4: Next steps
-
-Once you shared the documents with us, we will contact you in the following 48 to 72 business hours with next steps.
-
-<a name="Step-5-Troubleshooting"></a>
-
-# Step 5: Troubleshooting
-
-Please contact engineering support on **<mailto:iotcert@microsoft.com>** for help with troubleshooting.
-
-[setup-devbox-linux]: https://github.com/Azure/azure-iot-sdk-c/blob/master/doc/devbox_setup.md
