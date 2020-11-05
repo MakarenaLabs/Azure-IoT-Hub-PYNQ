@@ -2,7 +2,7 @@
 
 BITSTREAM=""
 
-_homepath="/home/xilinx/azure-iot-hub-pynq/"
+_homepath="/home/xilinx/Azure-IoT-Hub-PYNQ/"
 
 while [ -z $BITSTREAM ]
 do
