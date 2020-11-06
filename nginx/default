@@ -39,7 +39,7 @@ server {
 	# include snippets/snakeoil.conf;
 
 	#root /var/www/html;
-	root /home/xilinx/azure-iot-hub-pynq/azure-iot-dashboard/dist/azure-iot-dashboard;
+	root /home/xilinx/Azure-IoT-Hub-PYNQ/azure-iot-dashboard/dist/azure-iot-dashboard;
 
 	# Add index.php to the list if you are using PHP
 	index index.html index.htm index.nginx-debian.html;
