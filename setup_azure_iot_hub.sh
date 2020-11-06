@@ -92,8 +92,8 @@ JSON_STRING=$( jq -n \
                   --arg gpio "$_gpio" \
                   '{bitstream: $bn, 
                     addresses:{
-                        uart: $uart,
-                        gpio: $gpio
+                        uart: $_uart,
+                        gpio: $_gpio
                     }}' )
 
 echo $JSON_STRING > config.json
