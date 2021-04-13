@@ -1,4 +1,7 @@
 # Azure IoT Hub PYNQ
+
+[MakarenaLabs s.r.l.](https://makarenalabs.com)
+
 PYNQ project for Azure IoT Hub interface. Currently compatible with [MicroZed 7010](http://zedboard.org/product/microzed) board (tested with [MicroZed Carrier Card Kit for Arduino](http://zedboard.org/product/arduino-cc)) and [Ultra96v2](http://zedboard.org/product/ultra96-v2-development-board) board (tested with [TEP0006-01 expansion pin module](http://www.trenz-electronic.de/fileadmin/docs/Trenz_Electronic/Pmods/TEP0006/REV01/Documents/TRM-TEP0006-01.pdf)). 
 This project need PYNQ 2.5 minimum version (for MicroZed 7010 you can rebuild the image with [this repo](https://github.com/MakarenaLabs/PYNQ/tree/image_v2.5.4)).
 
